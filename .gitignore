@@ -1,2 +1,6 @@
 # Ignore data sources
+<<<<<<< 90d3fd58ac9466863765095eee3df0e5dd6e9f1b
 data_science_football_project/datasources/data/*
+=======
+data_science_football_project/notebooks/data/*
+>>>>>>> gitignore update
