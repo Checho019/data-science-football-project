@@ -1,2 +1,3 @@
 # Ignore data sources
 data_science_football_project/notebooks/data/*.csv
+.venv/
